@@ -1,5 +1,6 @@
 ### Hi there 👋
-I`m Web Developer
+### I am Web Developer
+### I’m currently working on frontend dev
 
 <!--
 **Arranzt/Arranzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
