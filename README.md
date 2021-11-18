@@ -1,6 +1,6 @@
 ### About me
-Hi there 👋
-Thanks for looking!
+Hi there 👋  
+Thanks for looking!  
 
 I am a web application developer.
 
