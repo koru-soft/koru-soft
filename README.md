@@ -7,10 +7,10 @@ I am a web application developer.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arranzt&theme=dracula)
 
-<a href="https://github.com/miwashutaro0611">
+<a href="https://github.com/arranzt">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=arranzt&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/miwashutaro0611">
+<a href="https://github.com/arranzt">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arranzt&layout=compact&theme=dracula" />
 </a>
 <!--
