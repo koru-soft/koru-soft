@@ -43,14 +43,11 @@
 </p>
 
 ## Status
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arranzt&theme=dracula)
-
-<a href="https://github.com/arranzt">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=arranzt&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/arranzt">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arranzt&layout=compact&theme=dracula" />
-</a>
+<p>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arranzt&theme=dracula" /> -->
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=arranzt&count_private=true&show_icons=true&theme=dracula" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arranzt&layout=compact&theme=dracula" />
+</p>
 <!--
 **Arranzt/Arranzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
