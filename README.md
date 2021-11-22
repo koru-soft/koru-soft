@@ -44,7 +44,6 @@
 
 ## Status
 <p>
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arranzt&theme=dracula" /> -->
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=arranzt&count_private=true&show_icons=true&theme=dracula" />
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arranzt&layout=compact&theme=dracula" />
 </p>
@@ -59,12 +58,6 @@
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<img alt="" src="">
-<img alt="" src="">
-<img alt="" src="">
-<img alt="" src="">
-<img alt="" src="">
 -->
 
 
