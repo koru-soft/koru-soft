@@ -1,6 +1,6 @@
-## Introduction
+<!-- ## Introduction -->
 
-![Profile](https://user-images.githubusercontent.com/49115180/142458116-049e3cb1-a618-421f-835b-d34baa73ae86.gif)
+<!-- ![Profile](https://user-images.githubusercontent.com/49115180/142458116-049e3cb1-a618-421f-835b-d34baa73ae86.gif) -->
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <p>
