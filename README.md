@@ -67,7 +67,7 @@
 ## Status
 <p>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=koru-soft&count_private=true&show_icons=true&theme=dracula" />
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koru-soft&langs_count=8&layout=compact&theme=dracula" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koru-soft&langs_count=8&hide=html,css&layout=compact&theme=dracula" />
 </p>
 <!--
 **Arranzt/Arranzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
